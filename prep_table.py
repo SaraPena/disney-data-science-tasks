@@ -134,12 +134,12 @@ def create_post_stats_names_list(table_rows_list):
 
 # function: create_postseason_links(table_rows_list)
 
-def create_postseason_links(table_rows_list):
+def create_postseason_links_list(table_rows_list):
     postseason_links= ['no link' if link=='no link' else link['href'] for link in [a_tag.find('a') if a_tag.find('a') else 'no link' for a_tag in [x.find('td', attrs={'class':'postseason'}) for x in table_rows_list]]]
     return(postseason_links)
 
 # test function:
-# postseason_links=create_postseason_links(table_rows_list)
+# postseason_links=create_postseason_links_list(table_rows_list)
 # postseason_links
 
 

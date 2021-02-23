@@ -328,7 +328,7 @@
     ],
     "Running time": 42,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "portuguese",
       "spanish"
@@ -409,7 +409,7 @@
     ],
     "Running time": 71,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "spanish",
       "portuguese"
@@ -679,7 +679,8 @@
     "Directed by": [
       "jack kinney",
       "clyde geronimi",
-      "james algar"
+      "james algar",
+      "ben sharpsteen (production supervisor)"
     ],
     "Produced by": "walt disney",
     "Story by": [
@@ -728,7 +729,8 @@
     "Directed by": [
       "clyde geronimi",
       "hamilton luske",
-      "wilfred jackson"
+      "wilfred jackson",
+      "ben sharpsteen (production supervisor)"
     ],
     "Produced by": "walt disney",
     "Story by": [
@@ -807,7 +809,7 @@
       "july 29, 1950 ( 1950-07-29 ) ( us )"
     ],
     "Running time": 96,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom"
     ],
@@ -888,7 +890,7 @@
     ],
     "Music by": "clifton parker",
     "Cinematography": "guy green",
-    "Production company": [
+    "Production companies": [
       "walt disney productions",
       "rko radio pictures, inc.",
       "[1]"
@@ -899,7 +901,7 @@
       "june 26, 1952 ( 1952-06-26 ) ( us )"
     ],
     "Running time": 84,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom"
     ],
@@ -980,7 +982,7 @@
       "august 8, 1953 ( 1953-08-08 ) ( us )"
     ],
     "Running time": 92,
-    "Country": [
+    "Countries": [
       "united kingdom ",
       " united states"
     ],
@@ -1040,7 +1042,7 @@
       "4 february 1954 ( 1954-02-04 ) ( us )"
     ],
     "Running time": 81,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -1212,8 +1214,8 @@
     "Distributed by": "buena vista distribution",
     "Release date": "december 22, 1955 ( 1955-12-22 )",
     "Running time": 73,
-    "Country": "united states, mexico",
-    "Language": "english, spanish",
+    "Countries": "united states, mexico",
+    "Languages": "english, spanish",
     "Box office": "$1.6 million (us)"
   },
   {
@@ -1448,7 +1450,7 @@
       "august 12, 1958 ( 1958-08-12 )"
     ],
     "Running time": 72,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -1691,7 +1693,7 @@
     ],
     "Running time": 97,
     "Country": "united states",
-    "Language": "english, scots"
+    "Languages": "english, scots"
   },
   {
     "title": "pollyanna",
@@ -2342,7 +2344,7 @@
     "Distributed by": "buena vista distribution",
     "Release date": "november 20, 1963 ( 1963-11-20 )",
     "Running time": 80,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -2465,11 +2467,11 @@
       "new york city, new york"
     ],
     "Running time": 97,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
-    "Language": [
+    "Languages": [
       "english",
       "gaelic"
     ],
@@ -2742,7 +2744,7 @@
     "Distributed by": "buena vista distribution",
     "Release date": "october 1, 1966",
     "Running time": 110,
-    "Country": [
+    "Countries": [
       "united kingdom ",
       " united states"
     ],
@@ -3122,8 +3124,7 @@
     "Production company": "walt disney productions",
     "Distributed by": "buena vista distribution",
     "Release date": [
-      "december 24, 1968 ( 1968-12-24 ) (limited)",
-      "march 13, 1969 ( 1969-03-13 ) (wide)"
+      "july 23, 1969 ( 1969-07-23 ) (uk)"
     ],
     "Running time": 108,
     "Country": "united states",
@@ -3227,7 +3228,7 @@
       "february 11, 1970 ( 1970-02-11 )"
     ],
     "Running time": 93,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -3848,7 +3849,7 @@
     "Release date": "december 20, 1974 (with winnie the pooh and tigger too )",
     "Running time": 93,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "swedish",
       "norwegian",
@@ -3972,7 +3973,7 @@
       "july 9, 1975 ( 1975-07-09 )"
     ],
     "Running time": 100,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -4036,7 +4037,7 @@
     ],
     "Release date": "december 25, 1975",
     "Running time": 91,
-    "Country": [
+    "Countries": [
       "united states",
       "australia"
     ],
@@ -4217,7 +4218,7 @@
       "march 12, 1977 "
     ],
     "Running time": 104,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -4610,7 +4611,7 @@
       "[1]"
     ],
     "Running time": 93,
-    "Country": [
+    "Countries": [
       "[1]"
     ],
     "Language": "english",
@@ -4840,7 +4841,7 @@
     "Edited by": [
       "john w. holmes"
     ],
-    "Production company": [
+    "Production companies": [
       "paramount pictures",
       "walt disney productions",
       "robert evans productions",
@@ -4953,7 +4954,7 @@
     "Music by": "alex north",
     "Cinematography": "derek vanlint",
     "Edited by": "tony lawson",
-    "Production company": [
+    "Production companies": [
       "paramount pictures",
       "walt disney productions"
     ],
@@ -5082,7 +5083,7 @@
     "Distributed by": "buena vista distribution",
     "Release date": "february 5, 1982 ( 1982-02-05 )",
     "Running time": 107,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -5204,7 +5205,7 @@
       "barry mark gordon",
       "art j. nelson"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney productions",
       "bryna productions"
     ],
@@ -5242,7 +5243,7 @@
     "Edited by": [
       "michael chandler"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista distribution",
@@ -5252,7 +5253,7 @@
     ],
     "Running time": 105,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "inuktitut"
     ],
@@ -5284,7 +5285,7 @@
       "freddie francis"
     ],
     "Edited by": "leslie hodgson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners"
     ],
@@ -5293,7 +5294,7 @@
       "june 21, 1985 ( 1985-06-21 ) (united states)"
     ],
     "Running time": 113,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom"
     ],
@@ -5347,7 +5348,7 @@
       "armetta jackson",
       "jeffrey katzenberg"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "[1]",
       "walt disney feature animation",
@@ -5399,7 +5400,7 @@
     "Edited by": [
       "steven rosenblum"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners ii"
     ],
@@ -5433,7 +5434,7 @@
     "Music by": "michael conway baker",
     "Cinematography": "frank tidy",
     "Edited by": "sidney wolinsky",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners ii",
       "telefilm canada"
@@ -5443,7 +5444,7 @@
       "november 22, 1985 ( 1985-11-22 )"
     ],
     "Running time": 89,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -5487,7 +5488,7 @@
       "alan young"
     ],
     "Music by": "henry mancini",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation",
       "silver screen partners ii"
@@ -5530,7 +5531,7 @@
       "jeff gourson",
       "janice parker"
     ],
-    "Production company": [
+    "Production companies": [
       "pso productions",
       "viking film as"
     ],
@@ -5542,7 +5543,7 @@
       "august 1, 1986 ( 1986-08-01 )"
     ],
     "Running time": 90,
-    "Country": [
+    "Countries": [
       "united states",
       "norway"
     ],
@@ -5569,7 +5570,7 @@
     ],
     "Cinematography": "don reddy",
     "Edited by": "karen thorndike",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners iii"
     ],
@@ -5602,7 +5603,7 @@
     "Music by": "bruce rowland",
     "Cinematography": "keith wagstaff",
     "Edited by": "gary woodyard",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners iii",
       "burrowes film group",
@@ -5658,7 +5659,7 @@
       "sheryl lee ralph"
     ],
     "Music by": "j. a. c. redford",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation",
       "silver screen partners iii"
@@ -5697,7 +5698,7 @@
     "Music by": "james horner",
     "Cinematography": "hiro narita",
     "Edited by": "michael a. stevenson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners iii"
     ],
@@ -5741,7 +5742,7 @@
     "Music by": "bruce rowland",
     "Cinematography": "thomas burstyn",
     "Edited by": "eric albertson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners iii"
     ],
@@ -5868,7 +5869,7 @@
     ],
     "Music by": "bruce broughton",
     "Edited by": "michael kelly",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation",
       "silver screen partners iv"
@@ -5912,7 +5913,7 @@
     ],
     "Cinematography": "tony pierce-roberts",
     "Edited by": "lisa day",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "silver screen partners iv"
     ],
@@ -5946,7 +5947,7 @@
     "Music by": "patrick doyle",
     "Cinematography": "erling thurmann-andersen",
     "Edited by": "nils pagh andersen",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "ab svensk filmindustri"
     ],
@@ -5955,12 +5956,12 @@
       "3 october 1990 ( 1990-10-03 )"
     ],
     "Running time": 93,
-    "Country": [
+    "Countries": [
       "norway",
       "sweden",
       "united states"
     ],
-    "Language": [
+    "Languages": [
       "norwegian",
       "english"
     ],
@@ -6181,7 +6182,7 @@
       "harry hitner",
       "michael a. stevenson"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "touchwood pacific partners",
       "[1]"
@@ -6220,7 +6221,7 @@
       "larry brock",
       "john f. link"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "avnet– kerner productions",
       "touchwood pacific partners"
@@ -6401,7 +6402,7 @@
     "Music by": "james horner",
     "Cinematography": "juan ruiz anchía",
     "Edited by": "ray lovejoy",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "amblin entertainment",
       "touchwood pacific partners"
@@ -6545,7 +6546,7 @@
     "Music by": "michael kamen",
     "Cinematography": "dean semler",
     "Edited by": "john f. link",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures"
     ],
@@ -6554,7 +6555,7 @@
       "november 12, 1993 ( 1993-11-12 )"
     ],
     "Running time": 105,
-    "Country": [
+    "Countries": [
       "[1]"
     ],
     "Language": "english",
@@ -6621,7 +6622,7 @@
     "Country": "united states",
     "Language": "english",
     "Budget": "$13 million",
-    "Box office": "$30.6 million"
+    "Box office": "$39 million"
   },
   {
     "title": "d2: the mighty ducks",
@@ -6646,7 +6647,7 @@
     "Edited by": [
       "john f. link"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista pictures",
@@ -6732,7 +6733,7 @@
     ],
     "Music by": "hans zimmer",
     "Edited by": "ivan bilancio",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -6770,7 +6771,7 @@
     "Music by": "randy edelman",
     "Cinematography": "matthew f. leonetti",
     "Edited by": "bruce green",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures"
     ],
@@ -6807,7 +6808,7 @@
       "october 28, 1994 ( 1994-10-28 )"
     ],
     "Running time": 102,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -6835,7 +6836,7 @@
     "Music by": "michael convertino",
     "Cinematography": "walt lloyd",
     "Edited by": "larry bock",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "hollywood pictures"
     ],
@@ -6908,11 +6909,9 @@
     "Produced by": [
       "roger birnbaum",
       "joe roth",
-      "judd apatow",
       "jack giarraputo"
     ],
     "Written by": [
-      "steven brill",
       "judd apatow"
     ],
     "Starring": [
@@ -6935,7 +6934,7 @@
     "Music by": "j. a. c. redford",
     "Cinematography": "victor hammer",
     "Edited by": "c. timothy o'meara",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures"
     ],
@@ -6972,7 +6971,7 @@
     "Music by": "mark mancina",
     "Cinematography": "jamie anderson",
     "Edited by": "harry keramidas",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "orr & cruickshank productions"
     ],
@@ -7008,7 +7007,7 @@
     "Music by": "randy edelman",
     "Cinematography": "janusz kamiński",
     "Edited by": "richard chew",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures"
     ],
@@ -7030,11 +7029,11 @@
     "Directed by": "kevin lima",
     "Produced by": "dan rounds",
     "Screenplay by": [
-      "jymn magon",
+      "jymm magon",
       "chris matheson",
       "brian pimental"
     ],
-    "Story by": "jymn magon",
+    "Story by": "jymm magon",
     "Based on": [
       "robert taylor",
       "michael peraza jr."
@@ -7107,7 +7106,7 @@
     ],
     "Music by": "alan menken",
     "Edited by": "h. lee peterson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -7143,7 +7142,7 @@
     "Music by": "david newman",
     "Cinematography": "russell boyd",
     "Edited by": "o. nicholas brown",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "interscope communications",
       "polygram filmed entertainment"
@@ -7153,7 +7152,7 @@
       "july 28, 1995 ( 1995-07-28 )"
     ],
     "Running time": 108,
-    "Language": [
+    "Languages": [
       "english ",
       "vietnamese"
     ],
@@ -7181,7 +7180,7 @@
       "anita brandt-burgoyne",
       "michael ripps"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "trimark pictures",
       "tapestry films"
@@ -7193,7 +7192,7 @@
       "august 11, 1995 ( 1995-08-11 )"
     ],
     "Running time": 89,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -7217,7 +7216,7 @@
     "Music by": "randy edelman",
     "Cinematography": "ralf d. bode",
     "Edited by": "john f. link",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures",
       "roger birnbaum productions"
@@ -7246,7 +7245,7 @@
     "Music by": "john reynolds",
     "Cinematography": "erik daarstad",
     "Edited by": "kathryn camp",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista pictures",
@@ -7366,7 +7365,7 @@
     "Music by": "hans zimmer",
     "Cinematography": "john fenner",
     "Edited by": "michael jablow",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jim henson productions"
     ],
@@ -7452,7 +7451,7 @@
       "hiro narita"
     ],
     "Edited by": "stan webb",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "allied filmmakers",
       "skellington productions"
@@ -7467,7 +7466,7 @@
       "august 2, 1996 ( 1996-08-02 ) (united kingdom)"
     ],
     "Running time": 79,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -7510,7 +7509,7 @@
     ],
     "Music by": "alan menken",
     "Edited by": "ellen keneshea",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -7537,7 +7536,7 @@
     "Music by": "richard gibbs",
     "Cinematography": "anthony b. richmond",
     "Edited by": "harry keramidas",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures",
       "roger birnbaum productions"
@@ -7580,7 +7579,7 @@
     "Music by": "j. a. c. redford",
     "Cinematography": "david hennings",
     "Edited by": "patrick lussier",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "avnet-kerner productions"
     ],
@@ -7614,7 +7613,7 @@
     "Music by": "michael kamen",
     "Cinematography": "adrian biddle",
     "Edited by": "trudy ship",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "great oaks entertainment"
     ],
@@ -7654,7 +7653,7 @@
     "Music by": "richard kendall gibbs",
     "Cinematography": "jerzy zielinski",
     "Edited by": "roger barton",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "robert simonds productions"
     ],
@@ -7686,7 +7685,7 @@
     "Music by": "michael convertino",
     "Cinematography": "tony pierce-roberts",
     "Edited by": "michael a. stevenson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "tf1 international"
     ],
@@ -7699,7 +7698,7 @@
       "august 5, 1997 ( 1997-08-05 ) (france)"
     ],
     "Running time": 105,
-    "Country": [
+    "Countries": [
       "united states",
       "france"
     ],
@@ -7795,7 +7794,7 @@
     "Edited by": [
       "kent beyda"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films",
       "jay ward productions",
@@ -7833,7 +7832,7 @@
     "Music by": "brahm wenger",
     "Cinematography": "mike southon",
     "Edited by": "alison grace",
-    "Production company": [
+    "Production companies": [
       "keystone pictures",
       "buddy films, inc."
     ],
@@ -7844,7 +7843,7 @@
     ],
     "Release date": "august 1, 1997",
     "Running time": 98,
-    "Country": [
+    "Countries": [
       "united states",
       "canada"
     ],
@@ -7869,7 +7868,7 @@
     "Music by": "michael tavera",
     "Cinematography": "steven poster",
     "Edited by": "william d. gordean",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "caravan pictures",
       "roger birnbaum productions"
@@ -7913,7 +7912,7 @@
       "harvey rosenstock",
       "michael a. stevenson"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "[1]",
       "great oaks"
@@ -7957,7 +7956,7 @@
       "stuart pappé",
       "david rawlins"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "upa productions"
     ],
@@ -7990,7 +7989,7 @@
     "Music by": "steve bartek",
     "Cinematography": "david hennings",
     "Edited by": "alan cody",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "dic entertainment",
       "peak productions"
@@ -8033,7 +8032,7 @@
     ],
     "Music by": "jerry goldsmith",
     "Edited by": "michael kelly",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -8106,7 +8105,7 @@
     "Music by": "john debney",
     "Cinematography": "hiro narita",
     "Edited by": "anita brandt-burgoyne",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films"
     ],
@@ -8145,7 +8144,7 @@
     "Music by": "randy newman",
     "Cinematography": "sharon calahan",
     "Edited by": "lee unkrich",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -8193,7 +8192,7 @@
       "oliver wood"
     ],
     "Edited by": "paul hirsch",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "rko pictures"
     ],
@@ -8277,7 +8276,7 @@
       "alysha cohen",
       "christopher gee"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jumbo pictures",
       "walt disney television animation",
@@ -8324,7 +8323,7 @@
       "may 14, 1999 ( 1999-05-14 )"
     ],
     "Running time": 83,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom",
       "germany"
@@ -8473,7 +8472,7 @@
     "Music by": "angelo badalamenti",
     "Cinematography": "freddie francis",
     "Edited by": "mary sweeney",
-    "Production company": [
+    "Production companies": [
       "asymmetrical productions",
       "canal+",
       "filmfour productions",
@@ -8490,7 +8489,7 @@
       "october 15, 1999 ( 1999-10-15 ) (united states)"
     ],
     "Running time": 112,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom",
       "france"
@@ -8583,7 +8582,7 @@
       "jessica ambinder-rojas",
       "lois freeman-fox"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -8601,7 +8600,10 @@
     "Released": "november 30, 1999 ( 1999-11-30 )",
     "Genre": "orchestra",
     "Length": "59 : 59",
-    "Label": "walt disney",
+    "Label": [
+      "walt disney",
+      "sony classical"
+    ],
     "Producer": "jay david saks"
   },
   {
@@ -8629,7 +8631,7 @@
       "makoto arai",
       "robert fisher, jr."
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney television animation",
       "walt disney animation japan",
       "walt disney pictures"
@@ -8679,7 +8681,7 @@
       "s. douglas smith"
     ],
     "Edited by": "h. lee peterson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation",
       "the secret lab"
@@ -8754,7 +8756,7 @@
     "Music by": "trevor rabin",
     "Cinematography": "philippe rousselot",
     "Edited by": "michael tronick",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films"
     ],
@@ -8796,7 +8798,7 @@
     "Music by": "david newman",
     "Cinematography": "adrian biddle",
     "Edited by": "gregory perler",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "cruella productions",
       "kanzaman s.a.m. films"
@@ -8833,7 +8835,7 @@
     ],
     "Music by": "john debney",
     "Edited by": "pamela ziegenhagen-shefland",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -8885,7 +8887,7 @@
     ],
     "Music by": "denis m. hannigan",
     "Edited by": "tony mizgalski",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney television animation",
       "walt disney television animation digital production",
@@ -8939,7 +8941,7 @@
     ],
     "Music by": "james newton howard",
     "Edited by": "ellen keneshea",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -8979,7 +8981,7 @@
     "Music by": "john debney",
     "Cinematography": "karl walter lindenlaub",
     "Edited by": "bruce green",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "brownhouse productions"
     ],
@@ -9021,7 +9023,7 @@
       "tony lombardo",
       "peck prior"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "karz entertainment"
     ],
@@ -9062,7 +9064,7 @@
       "robert grahamjones",
       "jim stewart"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -9105,7 +9107,7 @@
     "Music by": "john debney",
     "Cinematography": "thomas e. ackerman",
     "Edited by": "roger bondelli",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "the kerner entertainment company"
     ],
@@ -9212,7 +9214,7 @@
     ],
     "Music by": "alan silvestri",
     "Edited by": "darren t. holmes",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -9302,7 +9304,7 @@
       "[3]",
       "[4]"
     ],
-    "Box office": "$355.4 million"
+    "Box office": "$395.5 million"
   },
   {
     "title": "tuck everlasting",
@@ -9332,7 +9334,7 @@
     "Music by": "william ross",
     "Cinematography": "james l. carter",
     "Edited by": "jay cassidy",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "scholastic studios"
     ],
@@ -9376,7 +9378,7 @@
     "Music by": "george s. clinton",
     "Cinematography": "adam greenberg",
     "Edited by": "david finfer",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "outlaw productions",
       "boxing cat films"
@@ -9423,7 +9425,7 @@
     ],
     "Music by": "james newton howard",
     "Edited by": "michael kelly",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -9462,7 +9464,7 @@
       "christopher k. gee",
       "peter lonsdale"
     ],
-    "Production company": [
+    "Production companies": [
       "disneytoon studios",
       "[1]",
       "walt disney pictures",
@@ -9473,7 +9475,7 @@
       "february 14, 2003 ( 2003-02-14 )"
     ],
     "Running time": 72,
-    "Country": [
+    "Countries": [
       "united states",
       "australia"
     ],
@@ -9509,7 +9511,7 @@
       "carly simon (songs)"
     ],
     "Edited by": "ivan bilancio",
-    "Production company": [
+    "Production companies": [
       "disneytoon studios",
       "[1]",
       "walt disney pictures",
@@ -9552,7 +9554,7 @@
       "david c. cook",
       "john refoua"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media",
       "golden village"
@@ -9598,7 +9600,7 @@
       "thomas j. nordberg",
       "jeffrey wolf"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media",
       "phoenix pictures",
@@ -9639,7 +9641,7 @@
     "Music by": "cliff eidelman",
     "Cinematography": "jerzy zieliński",
     "Edited by": "margie goodspeed",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "stan rogow productions"
     ],
@@ -9649,7 +9651,7 @@
     ],
     "Running time": 94,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "italian"
     ],
@@ -9678,7 +9680,7 @@
       "jeremy lasky"
     ],
     "Edited by": "david ian salter",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -9718,7 +9720,8 @@
       "jonathan pryce"
     ],
     "Music by": [
-      "klaus badelt"
+      "klaus badelt",
+      "hans zimmer"
     ],
     "Cinematography": "dariusz wolski",
     "Edited by": [
@@ -9763,7 +9766,7 @@
     "Music by": "rolfe kent",
     "Cinematography": "oliver wood",
     "Edited by": "bruce green",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gunn films"
     ],
@@ -9807,7 +9810,7 @@
       "mark mancina"
     ],
     "Edited by": "tim mertens",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -9878,7 +9881,7 @@
       "terry blythe",
       "m. scott smith"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "the kennedy/marshall company"
     ],
@@ -9913,7 +9916,7 @@
       "rosalyn landor"
     ],
     "Music by": "stephen james taylor",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney television animation",
       "toon city animation"
@@ -9954,7 +9957,7 @@
       "john gilroy",
       "daric loo"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista pictures",
@@ -10030,7 +10033,7 @@
     ],
     "Music by": "alan menken",
     "Edited by": "h. lee peterson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -10082,7 +10085,7 @@
       "april 22, 2004 ( 2004-04-22 )"
     ],
     "Running time": 40,
-    "Country": [
+    "Countries": [
       "canada",
       "malaysia",
       "united states"
@@ -10116,7 +10119,7 @@
     ],
     "Cinematography": "phil meheux",
     "Edited by": "tom lewis",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media"
     ],
@@ -10126,7 +10129,7 @@
     ],
     "Running time": 120,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english",
       "french",
       "mandarin chinese",
@@ -10145,7 +10148,7 @@
       "brian funck",
       "tom mcgah"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "blacklight films"
     ],
@@ -10265,7 +10268,7 @@
     "Music by": "trevor rabin",
     "Cinematography": "caleb deschanel",
     "Edited by": "william goldenberg",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films",
       "junction entertainment",
@@ -10315,7 +10318,7 @@
       "matthew kregor",
       "fiona wight"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media",
       "earthship productions"
@@ -10349,7 +10352,7 @@
       "brenda blethyn"
     ],
     "Music by": "joel mcneely",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "[1]",
       "disneytoon studios",
@@ -10399,7 +10402,7 @@
     "Music by": "john debney",
     "Cinematography": "peter james",
     "Edited by": "christopher greenbury",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "spyglass entertainment"
     ],
@@ -10430,7 +10433,7 @@
     "Music by": "christophe beck",
     "Cinematography": "david hennings",
     "Edited by": "janice hampton",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista pictures",
@@ -10487,7 +10490,7 @@
     "Music by": "mark mothersbaugh",
     "Cinematography": "greg gardiner",
     "Edited by": "wendy greene bricmont",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "robert simonds productions"
     ],
@@ -10560,7 +10563,7 @@
     "Music by": "michael giacchino",
     "Cinematography": "shelly johnson",
     "Edited by": "peter amundson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gunn films"
     ],
@@ -10604,7 +10607,7 @@
       "olivia williams"
     ],
     "Music by": "george fenton",
-    "Production company": [
+    "Production companies": [
       "vanguard animation",
       "ealing studios",
       "uk film council",
@@ -10620,7 +10623,7 @@
       "august 19, 2005 ( 2005-08-19 ) (us)"
     ],
     "Running time": 76,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -10687,7 +10690,7 @@
     ],
     "Music by": "john debney",
     "Edited by": "dan molina",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney feature animation"
     ],
@@ -10743,7 +10746,7 @@
       "sim evan-jones",
       "jim may"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media"
     ],
@@ -10754,7 +10757,7 @@
       "december 9, 2005 ( 2005-12-09 ) (united states)"
     ],
     "Running time": 143,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -10785,7 +10788,7 @@
     "Edited by": [
       "john wright"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": "buena vista pictures",
@@ -10817,7 +10820,7 @@
     ],
     "Cinematography": "t.c. christensen",
     "Edited by": "nancy baker",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "white mountain films",
       "the kennedy/marshall company"
@@ -10855,7 +10858,7 @@
     "Music by": "mark isham",
     "Cinematography": "don burgess",
     "Edited by": "christopher rouse",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "spyglass entertainment",
       "mandeville films",
@@ -10900,7 +10903,7 @@
     "Music by": "alan menken",
     "Cinematography": "gabriel beristain",
     "Edited by": "ned bastille",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films",
       "boxing cat films"
@@ -10944,7 +10947,7 @@
       "scott balcerek ",
       "steven l. wagner"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "contrafilm",
       "c.o.r.e. feature animation"
@@ -10954,7 +10957,7 @@
       "april 14, 2006 ( 2006-04-14 )"
     ],
     "Running time": 82,
-    "Country": [
+    "Countries": [
       "[3]"
     ],
     "Language": "english",
@@ -10990,7 +10993,7 @@
       "jean claude kalache"
     ],
     "Edited by": "ken schretzmann",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -11114,7 +11117,7 @@
       "angie glocka",
       "justin khon"
     ],
-    "Production company": [
+    "Production companies": [
       "touchstone pictures",
       "[note 1]",
       "skellington productions",
@@ -11160,7 +11163,7 @@
     "Music by": "george s. clinton",
     "Cinematography": "robbie greenberg",
     "Edited by": "david finfer",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "outlaw productions",
       "boxing cat films"
@@ -11258,7 +11261,7 @@
     ],
     "Music by": "danny elfman",
     "Edited by": "ellen keneshea",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -11437,7 +11440,7 @@
       "leslie iwerks ",
       " stephen myers, a.c.e"
     ],
-    "Production company": [
+    "Production companies": [
       "leslie iwerks productions",
       "pixar animation studios"
     ],
@@ -11476,7 +11479,7 @@
     "Music by": "nathan wang",
     "Cinematography": "greg gardiner",
     "Edited by": "michael jablow",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mayhem pictures"
     ],
@@ -11570,7 +11573,7 @@
       "william goldenberg",
       "david rennie"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films",
       "junction entertainment",
@@ -11631,7 +11634,7 @@
     "Music by": "edward shearmur",
     "Cinematography": "theo van de sande",
     "Edited by": "roger bondelli",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gunn films"
     ],
@@ -11672,7 +11675,7 @@
     "Music by": "harry gregson-williams",
     "Cinematography": "karl walter lindenlaub",
     "Edited by": "sim evan-jones",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walden media"
     ],
@@ -11683,7 +11686,7 @@
       "june 26, 2008 ( 2008-06-26 ) (united kingdom)"
     ],
     "Running time": 150,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -11755,7 +11758,7 @@
     "Music by": "heitor pereira",
     "Cinematography": "phil méheux",
     "Edited by": "sabrina plisco",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films"
     ],
@@ -11809,7 +11812,7 @@
     "Music by": "david lawrence",
     "Cinematography": "daniel aranyò",
     "Edited by": "don brochu",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "borden & rosenbush entertainment"
     ],
@@ -11841,7 +11844,7 @@
     ],
     "Music by": "john powell",
     "Edited by": "tim mertens",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -11887,7 +11890,7 @@
     "Music by": "rupert gregson-williams",
     "Cinematography": "michael barrett",
     "Edited by": "tom costain",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "happy madison productions",
       "gunn films",
@@ -11928,7 +11931,7 @@
     ],
     "Music by": "zhang hanyun - \" one dream \" , simplified chinese= 張含韻《一人一夢》",
     "Edited by": "angie lam",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "centro digital pictures limited"
     ],
@@ -11938,7 +11941,7 @@
     ],
     "Running time": 85,
     "Country": "china",
-    "Language": "chinese , english"
+    "Languages": "chinese , english"
   },
   {
     "title": "jonas brothers:the 3d concert experience",
@@ -11960,7 +11963,7 @@
       "reed smoot"
     ],
     "Edited by": "michael tronick",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": [
@@ -11999,7 +12002,7 @@
     "Music by": "trevor rabin",
     "Cinematography": "greg gardiner",
     "Edited by": "david rennie",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gunn films"
     ],
@@ -12045,7 +12048,7 @@
     "Music by": "john debney",
     "Cinematography": "david hennings",
     "Edited by": "virginia katz",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "it's a laugh productions",
       "millar gough ink"
@@ -12090,7 +12093,7 @@
       "martin elsbury",
       "vartan nazarian"
     ],
-    "Production company": [
+    "Production companies": [
       "bbc worldwide",
       "greenlight media",
       "discovery channel",
@@ -12109,7 +12112,7 @@
       "22 april 2009 ( 2009-04-22 ) (united states)"
     ],
     "Running time": 90,
-    "Country": [
+    "Countries": [
       "france",
       "united kingdom",
       "germany",
@@ -12143,7 +12146,7 @@
       "jean-claudie kalache"
     ],
     "Edited by": "kevin nolting",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -12162,7 +12165,7 @@
   {
     "title": "lilly the witch:the dragon and the magic book",
     "Music by": "ian honeyman",
-    "Country": [
+    "Countries": [
       "germany",
       "austria",
       "italy",
@@ -12199,7 +12202,7 @@
       "jason hellmann",
       "mark goldblatt"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films"
     ],
@@ -12283,7 +12286,7 @@
     "Based on": "russian fairy tales",
     "Music by": "yuri poteyenko",
     "Cinematography": "archil akhvlediani",
-    "Production company": [
+    "Production companies": [
       "the walt disney company cis"
     ],
     "Release date": [
@@ -12319,7 +12322,7 @@
     "Music by": "alan silvestri",
     "Cinematography": "robert presley",
     "Edited by": "jeremiah o'driscoll",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "imagemovers digital"
     ],
@@ -12363,7 +12366,7 @@
       "tom lewis",
       "ryan folsey"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures"
     ],
     "Distributed by": [
@@ -12415,7 +12418,7 @@
     ],
     "Music by": "randy newman",
     "Edited by": "jeff draheim",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -12462,7 +12465,7 @@
     "Music by": "danny elfman",
     "Cinematography": "dariusz wolski",
     "Edited by": "chris lebenzon",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "roth films",
       "the zanuck company",
@@ -12503,7 +12506,7 @@
       "catherine mauchain",
       "vincent schmidt"
     ],
-    "Production company": [
+    "Production companies": [
       "pathé",
       "participant media",
       "disneynature",
@@ -12605,7 +12608,7 @@
       "kim white"
     ],
     "Edited by": "ken schretzmann",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -12655,7 +12658,7 @@
     "Music by": "trevor rabin",
     "Cinematography": "bojan bazelli",
     "Edited by": "william goldenberg",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films",
       "saturn films",
@@ -12692,7 +12695,9 @@
     ],
     "Based on": [
       "earthsea",
-      "ursula k. le guin"
+      "ursula k. le guin",
+      "the journey of shuna",
+      "hayao miyazaki"
     ],
     "Starring": [
       "bunta sugawara",
@@ -12731,7 +12736,7 @@
       "france"
     ],
     "Music by": "the cinematic orchestra and claseria",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "kudos pictures"
     ],
@@ -12741,7 +12746,7 @@
       "29 september 2009 ( 2009-09-29 ) ( united kingdom )"
     ],
     "Running time": 74,
-    "Country": [
+    "Countries": [
       "united kingdom",
       "united states"
     ],
@@ -12769,7 +12774,7 @@
     "Music by": "nick glennie-smith",
     "Cinematography": "dean semler",
     "Edited by": "john wright",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mayhem pictures"
     ],
@@ -12805,7 +12810,7 @@
     ],
     "Cinematography": "anshuman mahaley",
     "Edited by": "aarti bajaj",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "disney world cinema",
       "planman motion pictures",
@@ -12838,7 +12843,7 @@
     ],
     "Music by": "alan menken",
     "Edited by": "tim mertens",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "[2]",
       "walt disney animation studios",
@@ -12881,7 +12886,7 @@
     ],
     "Cinematography": "richard numeroff",
     "Edited by": "rich evirs",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "red hour films"
     ],
@@ -12970,7 +12975,7 @@
     ],
     "Cinematography": "soundarrajan",
     "Edited by": "sravan katikaneni",
-    "Production company": [
+    "Production companies": [
       "disney world cinema",
       "arka media works",
       "walt disney pictures india"
@@ -13036,7 +13041,7 @@
     "Music by": "john powell",
     "Cinematography": "robert presley",
     "Edited by": "wayne wahrman",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "imagemovers digital"
     ],
@@ -13078,7 +13083,7 @@
     "Music by": "shankar-ehsaan-loy",
     "Cinematography": "keshav prakash",
     "Edited by": "suresh pai",
-    "Production company": [
+    "Production companies": [
       "disney world cinema",
       "walt disney pictures india"
     ],
@@ -13108,7 +13113,7 @@
       "patrick stewart"
     ],
     "Music by": "nicholas hooper",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "fothergill / scholey productions",
       "silverback films"
@@ -13120,12 +13125,12 @@
       "april 27, 2012 ( 2012-04-27 ) (united kingdom)"
     ],
     "Running time": 89,
-    "Country": [
+    "Countries": [
       "united states",
       "france",
       "united kingdom"
     ],
-    "Language": [
+    "Languages": [
       "english",
       "french"
     ],
@@ -13256,7 +13261,7 @@
       "sharon calahan"
     ],
     "Edited by": "stephen schaffer",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -13365,7 +13370,7 @@
     "Music by": "christophe beck",
     "Cinematography": "don burgess",
     "Edited by": "james thomas",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "[1]",
       "mandeville films",
@@ -13503,7 +13508,7 @@
       "bill wallauer (uganda)"
     ],
     "Edited by": "andy netley",
-    "Production company": [
+    "Production companies": [
       "disneynature"
     ],
     "Distributed by": "walt disney studios motion pictures",
@@ -13513,12 +13518,12 @@
       "may 3, 2013 ( 2013-05-03 ) (united kingdom)"
     ],
     "Running time": 77,
-    "Country": [
+    "Countries": [
       "united states",
       "france",
       "united kingdom"
     ],
-    "Language": [
+    "Languages": [
       "english",
       "french"
     ],
@@ -13539,7 +13544,7 @@
     ],
     "Cinematography": "hemant chaturvedi",
     "Edited by": "a. sreekar prasad",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney pictures india",
       "utv motion pictures"
@@ -13581,7 +13586,7 @@
       "danielle feinberg (lighting)"
     ],
     "Edited by": "nicholas c. smith",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -13621,7 +13626,7 @@
     "Music by": "geoff zanelli",
     "Cinematography": "john toll",
     "Edited by": "andrew mondshein",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "scott sanders productions"
     ],
@@ -13667,7 +13672,7 @@
     "Edited by": [
       "chris lebenzon"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "tim burton productions"
     ],
@@ -13699,12 +13704,13 @@
       "john c. reilly",
       "sarah silverman",
       "jack mcbrayer",
-      "jane lynch"
+      "jane lynch",
+      "alan tudyk"
     ],
     "Music by": "henry jackman",
     "Cinematography": "rob dressel",
     "Edited by": "tim mertens",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -13795,7 +13801,7 @@
       "bliss"
     ],
     "Edited by": "jonathan p. shaw",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "blacklight films"
     ],
@@ -13808,11 +13814,11 @@
       "16 april 2013 ( 2013-04-16 ) (united states)"
     ],
     "Running time": 77,
-    "Country": [
+    "Countries": [
       "france",
       "united states"
     ],
-    "Language": [
+    "Languages": [
       "french",
       "english"
     ]
@@ -13902,7 +13908,7 @@
       "james haygood",
       "craig wood"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films",
       "infinitum nihil",
@@ -13945,7 +13951,7 @@
     ],
     "Music by": "mark mancina",
     "Edited by": "jeremy milton",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "disneytoon studios"
     ],
@@ -13997,7 +14003,7 @@
       "mohit kallianpur "
     ],
     "Edited by": "jeff draheim",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -14037,7 +14043,7 @@
     "Music by": "thomas newman",
     "Cinematography": "john schwartzman",
     "Edited by": "mark livolsi",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "ruby films",
       "essential media and entertainment",
@@ -14054,7 +14060,7 @@
       "january 9, 2014 ( 2014-01-09 ) (australia)"
     ],
     "Running time": 125,
-    "Country": [
+    "Countries": [
       "australia",
       "united kingdom",
       "united states"
@@ -14083,7 +14089,7 @@
     "Music by": "christophe beck",
     "Cinematography": "don burgess",
     "Edited by": "james thomas",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films"
     ],
@@ -14109,7 +14115,7 @@
     ],
     "Narrated by": "john c. reilly",
     "Music by": "george fenton",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "silverback films"
     ],
@@ -14142,7 +14148,7 @@
     "Music by": "a. r. rahman",
     "Cinematography": "gyula pados",
     "Edited by": "tatiana s. riegel",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "roth films"
     ],
@@ -14153,7 +14159,7 @@
     ],
     "Running time": 124,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "english hindi",
       "english",
       "hindi"
@@ -14185,7 +14191,7 @@
       "chris lebenzon",
       "richard pearson"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "roth films"
     ],
@@ -14222,7 +14228,7 @@
     ],
     "Music by": "mark mancina",
     "Edited by": "dan molina",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "disneytoon studios"
     ],
@@ -14269,7 +14275,7 @@
     ],
     "Cinematography": "tushar kanti ray",
     "Edited by": "bakul matiyani",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures india",
       "anil kapoor films company",
       "[3]"
@@ -14311,7 +14317,7 @@
     "Music by": "christophe beck",
     "Cinematography": "terry stacey",
     "Edited by": "pamela martin",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "21 laps entertainment",
       "the jim henson company"
@@ -14366,7 +14372,7 @@
       "adolph lusinsky (lighting)"
     ],
     "Edited by": "tim mertens",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -14417,7 +14423,7 @@
     "Music by": "stephen sondheim",
     "Cinematography": "dion beebe",
     "Edited by": "wyatt smith",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "lucamar productions",
       "marc platt productions"
@@ -14459,7 +14465,7 @@
     "Music by": "antônio pinto",
     "Cinematography": "adam arkapaw",
     "Edited by": "david coulson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mayhem pictures"
     ],
@@ -14507,7 +14513,7 @@
     "Music by": "patrick doyle",
     "Cinematography": "haris zambarloukos",
     "Edited by": "martin walsh",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "kinberg genre",
       "allison shearmur productions",
@@ -14522,7 +14528,7 @@
       "march 27, 2015 ( 2015-03-27 ) (united kingdom)"
     ],
     "Running time": 106,
-    "Country": [
+    "Countries": [
       "united states",
       "united kingdom"
     ],
@@ -14553,7 +14559,7 @@
       "gavin thurston"
     ],
     "Edited by": "andy netley",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "silverback films"
     ],
@@ -14599,7 +14605,7 @@
       "walter murch",
       "craig wood"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "a113 productions"
     ],
@@ -14654,7 +14660,7 @@
       "kim white (lighting)"
     ],
     "Edited by": "kevin nolting",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -14665,7 +14671,7 @@
       "may 18, 2015 ( 2015-05-18 ) ( cannes )",
       "june 19, 2015 ( 2015-06-19 ) (united states)"
     ],
-    "Running time": 94,
+    "Running time": 95,
     "Country": "united states",
     "Language": "english",
     "Budget": "$175 million",
@@ -14801,7 +14807,7 @@
     "Music by": "carter burwell",
     "Cinematography": "javier aguirresarobe",
     "Edited by": "tatiana s. riegel",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "whitaker entertainment",
       "red hawk entertainment"
@@ -14865,7 +14871,7 @@
       "fabienne rawley",
       "jeremy milton"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -14901,6 +14907,7 @@
     "Written by": "justin marks",
     "Based on": [
       "the jungle book",
+      "[1]",
       "rudyard kipling"
     ],
     "Starring": [
@@ -14916,7 +14923,7 @@
     "Music by": "john debney",
     "Cinematography": "bill pope",
     "Edited by": "mark livolsi",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "fairview entertainment"
     ],
@@ -14974,7 +14981,7 @@
       "may 12, 2016 ( 2016-05-12 ) (italy)"
     ],
     "Running time": 98,
-    "Country": [
+    "Countries": [
       "spain",
       "italy"
     ],
@@ -15010,7 +15017,7 @@
     "Music by": "danny elfman",
     "Cinematography": "stuart dryburgh",
     "Edited by": "andrew weisblum",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "roth films",
       "team todd",
@@ -15061,7 +15068,7 @@
       "ian megibben (lighting)"
     ],
     "Edited by": "axel geddes",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -15238,7 +15245,7 @@
     ],
     "Running time": 124,
     "Country": "united states",
-    "Language": [
+    "Languages": [
       "luganda"
     ],
     "Budget": "$15 million",
@@ -15317,7 +15324,7 @@
       "november 23, 2016 ( 2016-11-23 ) (united states)"
     ],
     "Running time": 107,
-    "Country": [
+    "Countries": [
       "united states"
     ],
     "Language": "english",
@@ -15351,7 +15358,7 @@
     "Music by": "pritam",
     "Cinematography": "setu (satyajit pande)",
     "Edited by": "ballu saluja",
-    "Production company": [
+    "Production companies": [
       "aamir khan productions",
       "walt disney pictures india"
     ],
@@ -15402,7 +15409,7 @@
       "jérôme maison"
     ],
     "Edited by": "sabine emiliani",
-    "Production company": [
+    "Production companies": [
       "wild bunch",
       "national geographic films",
       "bonne pioche"
@@ -15448,7 +15455,7 @@
     "Music by": "alan menken",
     "Cinematography": "tobias a. schliessler",
     "Edited by": "virginia katz",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films"
     ],
@@ -15486,7 +15493,7 @@
     ],
     "Music by": "barnaby taylor",
     "Edited by": "matthew meech",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "shanghai media group",
       "chuan films",
@@ -15503,12 +15510,12 @@
       "august 23, 2017 ( 2017-08-23 ) (france)"
     ],
     "Running time": 76,
-    "Country": [
+    "Countries": [
       "united states",
       "china",
       "france"
     ],
-    "Language": [
+    "Languages": [
       "english",
       "mandarin",
       "french"
@@ -15546,7 +15553,7 @@
       "roger barton",
       "leigh folsom boyd"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jerry bruckheimer films"
     ],
@@ -15595,7 +15602,7 @@
       "kim white (lighting)"
     ],
     "Edited by": "jason hudak",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -15623,7 +15630,7 @@
     "Produced by": "brian leith",
     "Written by": "ben wallis",
     "Narrated by": "antoine fuqua",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "brian leith productions"
     ],
@@ -15660,7 +15667,7 @@
     "Music by": "pritam",
     "Cinematography": "ravi varman",
     "Edited by": "amitabh shukla",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures india",
       "picture shuru entertainment",
       "ishana movies"
@@ -15710,7 +15717,7 @@
       "danielle feinberg (lighting)"
     ],
     "Edited by": "steve bloom",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -15879,7 +15886,7 @@
     ],
     "Cinematography": "matthias koenigswieser",
     "Edited by": "matt chessé",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "2dux²"
     ],
@@ -15925,7 +15932,7 @@
     "Music by": "james newton howard",
     "Cinematography": "linus sandgren",
     "Edited by": "stuart levy",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "the mark gordon company"
     ],
@@ -16023,7 +16030,7 @@
     "Music by": "marc shaiman",
     "Cinematography": "dion beebe",
     "Edited by": "wyatt smith",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "lucamar productions",
       "marc platt productions"
@@ -16070,7 +16077,7 @@
     "Music by": "danny elfman",
     "Cinematography": "ben davis",
     "Edited by": "chris lebenzon",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "tim burton productions",
       "infinite detective productions",
@@ -16112,7 +16119,7 @@
     "Narrated by": "ed helms",
     "Music by": "harry gregson-williams",
     "Edited by": "andy netley",
-    "Production company": [
+    "Production companies": [
       "disneynature",
       "silverback films"
     ],
@@ -16156,7 +16163,7 @@
     "Music by": "alan menken",
     "Cinematography": "alan stewart",
     "Edited by": "james herbert",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "rideback",
       "marc platt productions"
@@ -16266,7 +16273,7 @@
       "mark livolsi",
       "adam gerstel"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "fairview entertainment"
     ],
@@ -16317,7 +16324,7 @@
       "laura jennings",
       "craig wood"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "roth/kirschenbaum films"
     ],
@@ -16364,7 +16371,7 @@
     "Music by": "joseph trapanese",
     "Cinematography": "enrique chediak",
     "Edited by": "melissa bretherton",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "taylor made"
     ],
@@ -16438,7 +16445,7 @@
       "mohit kallianpur (lighting)"
     ],
     "Edited by": "jeff draheim",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -16502,7 +16509,7 @@
     "Music by": "rolfe kent",
     "Cinematography": "masanobu takayanagi",
     "Edited by": "tom mcardle",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "etalon film",
       "slow pony pictures",
@@ -16547,7 +16554,7 @@
       "adam habib"
     ],
     "Edited by": "catherine apple",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "pixar animation studios"
     ],
@@ -16595,7 +16602,7 @@
       "shayar bansali",
       "tracey wadmore-smith\n"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gotham group"
     ],
@@ -16690,7 +16697,7 @@
     "Music by": "patrick doyle",
     "Cinematography": "haris zambarloukos",
     "Edited by": "matthew tucker",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "tribeca productions",
       "marzano films"
@@ -16732,7 +16739,7 @@
     "Music by": "lin-manuel miranda",
     "Cinematography": "declan quinn",
     "Edited by": "jonah moran",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "5000 broadway productions",
       "nevis productions",
@@ -16831,7 +16838,7 @@
       "haines hall",
       "tom watson"
     ],
-    "Production company": [
+    "Production companies": [
       "parkwood entertainment",
       "walt disney pictures"
     ],
@@ -16874,7 +16881,7 @@
       "bruce green",
       "robert malina"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "team todd"
     ],
@@ -16916,7 +16923,7 @@
     "Music by": "craig armstrong",
     "Cinematography": "florian ballhaus",
     "Edited by": "barney pilling",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jolie pas productions"
     ],
@@ -16960,7 +16967,7 @@
     "Music by": "harry gregson-williams",
     "Cinematography": "mandy walker",
     "Edited by": "david coulson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "jason t. reed productions",
       "good fear productions"
@@ -16992,7 +16999,7 @@
     "Music by": "rachel portman",
     "Cinematography": "christopher norr",
     "Edited by": "gary dollner",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "secret machine entertainment"
     ],
@@ -17021,7 +17028,7 @@
     "Music by": "marcus miller",
     "Cinematography": "shane hurlbut",
     "Edited by": "terel gibson",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mayhem pictures",
       "select films"
@@ -17078,7 +17085,7 @@
     "Country": "united states",
     "Language": "english",
     "Budget": "$150 million+",
-    "Box office": "$96.2 million"
+    "Box office": "$115.7 million"
   },
   {
     "title": "flora & ulysses",
@@ -17102,7 +17109,7 @@
     "Music by": "jake monaco",
     "Cinematography": "andrew dunn",
     "Edited by": "jamie gross",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "netter productions"
     ],
@@ -17140,16 +17147,15 @@
       "alan tudyk"
     ],
     "Music by": "james newton howard",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
-    "Distributed by": [
-      "walt disney studios motion pictures"
-    ],
+    "Distributed by": "walt disney studios motion pictures",
     "Release date": [
       "march 5, 2021 ( 2021-03-05 )"
     ],
+    "Running time": 107,
     "Country": "united states",
     "Language": "english"
   },
@@ -17157,9 +17163,9 @@
     "title": "cruella",
     "Directed by": "craig gillespie",
     "Produced by": [
-      "kristin burr",
       "andrew gunn",
-      "marc platt"
+      "marc platt",
+      "kristin burr"
     ],
     "Screenplay by": [
       "dana fox",
@@ -17184,7 +17190,7 @@
     ],
     "Cinematography": "nicolas karakatsanis",
     "Edited by": "tatiana s. riegel",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "gunn films",
       "marc platt productions"
@@ -17236,7 +17242,7 @@
     ],
     "Cinematography": "flavio labiano",
     "Edited by": "joel negron",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "davis entertainment",
       "seven bucks productions",
@@ -17257,7 +17263,12 @@
       "clare olssen",
       "jonathan clyde"
     ],
-    "Starring": "the beatles",
+    "Starring": [
+      "john lennon",
+      "paul mccartney",
+      "george harrison",
+      "ringo starr"
+    ],
     "Music by": "the beatles",
     "Edited by": "jabez olssen",
     "Production companies": [
@@ -17271,7 +17282,7 @@
     "Release date": [
       "27 august 2021 ( 2021-08-27 )"
     ],
-    "Country": [
+    "Countries": [
       "united kingdom",
       "new zealand",
       "united states"
@@ -17289,7 +17300,7 @@
       "charise castro smith"
     ],
     "Music by": "lin-manuel miranda",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "walt disney animation studios"
     ],
@@ -17304,6 +17315,7 @@
   },
   {
     "title": "the little mermaid",
+    "Directed by": "rob marshall",
     "Produced by": [
       "rob marshall",
       "john deluca",
@@ -17338,7 +17350,7 @@
     ],
     "Cinematography": "dion beebe",
     "Edited by": "wyatt smith",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "lucamar productions",
       "marc platt productions"
@@ -17373,7 +17385,7 @@
       "jim gaffigan"
     ],
     "Cinematography": "bojan bazelli",
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "whitaker entertainment",
       "roth/kirschenbaum films"
@@ -17407,7 +17419,7 @@
     ],
     "Music by": "john debney",
     "Cinematography": "mitchell amundsen",
-    "Production company": [
+    "Production companies": [
       "20th century studios"
     ],
     "Distributed by": "disney+",
@@ -17436,7 +17448,7 @@
       "josh gad",
       "rick moranis"
     ],
-    "Production company": [
+    "Production companies": [
       "walt disney pictures",
       "mandeville films"
     ],

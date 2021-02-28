@@ -43,5 +43,8 @@ def test_other_currency():
 def test_list():
 	assert money_conversion(['$410.6 million (gross)', '$378.5 million (net)']) == 410600000
 
+def test_hash():
+	assert money_conversion('$180–263 million') == 180000000
+
 def test_unkown():
 	assert money_conversion("70 crore") is None
